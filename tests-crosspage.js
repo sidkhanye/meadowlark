@@ -36,6 +36,6 @@ suite('Cross-Page Tests', function(){
         function(){
             assert(browser.field('referrer').value ==='');
             done();
-        })
+        });
     });
 });
