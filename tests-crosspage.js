@@ -38,4 +38,4 @@ suite('Cross-Page Tests', function(){
             done();
         });
     });
-})
+});
